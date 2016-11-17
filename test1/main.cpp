@@ -24,6 +24,8 @@ int main()
 
 	Line L(10, 6, 100, 200);
 	L.printLine();
+	Line A(10, 6, 100, 200);
+	A.printLine();
 
 	system("pause");
 	return 0;
